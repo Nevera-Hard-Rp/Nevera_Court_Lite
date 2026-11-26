@@ -36,7 +36,7 @@
 
 ## Changelog
 
-### 1.0.0 — Initial release (Lite)
+### 1.0.1 — Initial release (Lite)
 
 **Core court** — everything you need to run real court RP:
 - DOJ court laptop (F5): cases, 37 A4 forms × 5 languages, warrants, bail, hearings, fines, penal code
