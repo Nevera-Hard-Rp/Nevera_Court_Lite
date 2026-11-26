@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://nevera-rp.com/tebex/assets/nevera-court-github-banner.png" alt="Nevera Court — FiveM DOJ / Court System" width="100%">
+<img src="https://i.imgur.com/TEYgJBK.png" alt="Nevera Court — FiveM DOJ / Court System" width="100%">
 
 # Nevera Court Lite
 
